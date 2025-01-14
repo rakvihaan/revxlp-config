@@ -12,7 +12,7 @@
 #define NAV_L 1
 #define NUM_L 2
 #define MED_L 3
-#define FUN_L 4
+#define FUN_L 6
 
 / {
     tap_dances {
